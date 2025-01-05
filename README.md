@@ -26,7 +26,7 @@ API Usage
 The app uses the ExerciseDB API from RapidAPI to fetch exercise data.
 
 Screenshots
-<!-- Add screenshots of your app here -->
+https://github.com/mosuab-bit/gym-exercises/blob/bc7a87c0fd1415d766c32d43d73f23ef9cf89fbb/Screenshot%202025-01-05%20233145.png
 
 Acknowledgments
 RapidAPI for providing the ExerciseDB API.
